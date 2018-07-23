@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2BB67F4488D94FA45812B444 /* Pods_reception_desk_iphone.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AFB77F20690ED7CFEB4B85C /* Pods_reception_desk_iphone.framework */; };
 		2F1ED2BE2105B11D0087DE17 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F1ED2BD2105B11D0087DE17 /* AppDelegate.swift */; };
 		2F1ED2C02105B11D0087DE17 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F1ED2BF2105B11D0087DE17 /* ViewController.swift */; };
 		2F1ED2C32105B11D0087DE17 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F1ED2C12105B11D0087DE17 /* Main.storyboard */; };
@@ -15,6 +16,8 @@
 		2F1ED2D32105B1220087DE17 /* reception_desk_iphoneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F1ED2D22105B1220087DE17 /* reception_desk_iphoneTests.swift */; };
 		2F1ED2DE2105B1220087DE17 /* reception_desk_iphoneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F1ED2DD2105B1220087DE17 /* reception_desk_iphoneUITests.swift */; };
 		2F1ED2EC2105B14E0087DE17 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2F1ED2EB2105B14E0087DE17 /* GoogleService-Info.plist */; };
+		EBF3A708DCE1D08E1EF447AF /* Pods_reception_desk_iphoneUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6B1ABC66E01688D16A3923F3 /* Pods_reception_desk_iphoneUITests.framework */; };
+		F524F4224D5487C507D3F043 /* Pods_reception_desk_iphoneTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 781609EAFE36E6089A570E39 /* Pods_reception_desk_iphoneTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,15 @@
 		2F1ED2DD2105B1220087DE17 /* reception_desk_iphoneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = reception_desk_iphoneUITests.swift; sourceTree = "<group>"; };
 		2F1ED2DF2105B1220087DE17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2F1ED2EB2105B14E0087DE17 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		36A982674B5188011590DA95 /* Pods-reception-desk-iphoneTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-reception-desk-iphoneTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-reception-desk-iphoneTests/Pods-reception-desk-iphoneTests.debug.xcconfig"; sourceTree = "<group>"; };
+		5AFB77F20690ED7CFEB4B85C /* Pods_reception_desk_iphone.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_reception_desk_iphone.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6B1ABC66E01688D16A3923F3 /* Pods_reception_desk_iphoneUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_reception_desk_iphoneUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		781609EAFE36E6089A570E39 /* Pods_reception_desk_iphoneTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_reception_desk_iphoneTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		883D7D4020A9982F756BFBB7 /* Pods-reception-desk-iphone.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-reception-desk-iphone.release.xcconfig"; path = "Pods/Target Support Files/Pods-reception-desk-iphone/Pods-reception-desk-iphone.release.xcconfig"; sourceTree = "<group>"; };
+		A3717DA70D6BE66BF48E5024 /* Pods-reception-desk-iphone.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-reception-desk-iphone.debug.xcconfig"; path = "Pods/Target Support Files/Pods-reception-desk-iphone/Pods-reception-desk-iphone.debug.xcconfig"; sourceTree = "<group>"; };
+		BEDF25133DA01F8ABA05656F /* Pods-reception-desk-iphoneUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-reception-desk-iphoneUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-reception-desk-iphoneUITests/Pods-reception-desk-iphoneUITests.release.xcconfig"; sourceTree = "<group>"; };
+		D5C9B771B1F3549EC8AC5C6F /* Pods-reception-desk-iphoneTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-reception-desk-iphoneTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-reception-desk-iphoneTests/Pods-reception-desk-iphoneTests.release.xcconfig"; sourceTree = "<group>"; };
+		ED00968E2ADEC6B99961BDDC /* Pods-reception-desk-iphoneUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-reception-desk-iphoneUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-reception-desk-iphoneUITests/Pods-reception-desk-iphoneUITests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +68,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2BB67F4488D94FA45812B444 /* Pods_reception_desk_iphone.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F524F4224D5487C507D3F043 /* Pods_reception_desk_iphoneTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,12 +84,23 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EBF3A708DCE1D08E1EF447AF /* Pods_reception_desk_iphoneUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1F8CE92D1FD747B050076EB3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5AFB77F20690ED7CFEB4B85C /* Pods_reception_desk_iphone.framework */,
+				781609EAFE36E6089A570E39 /* Pods_reception_desk_iphoneTests.framework */,
+				6B1ABC66E01688D16A3923F3 /* Pods_reception_desk_iphoneUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		2F1ED2B12105B11D0087DE17 = {
 			isa = PBXGroup;
 			children = (
@@ -83,6 +108,8 @@
 				2F1ED2D12105B1220087DE17 /* reception-desk-iphoneTests */,
 				2F1ED2DC2105B1220087DE17 /* reception-desk-iphoneUITests */,
 				2F1ED2BB2105B11D0087DE17 /* Products */,
+				E9BA485AC9B3B6769046C19E /* Pods */,
+				1F8CE92D1FD747B050076EB3 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -128,6 +155,19 @@
 			path = "reception-desk-iphoneUITests";
 			sourceTree = "<group>";
 		};
+		E9BA485AC9B3B6769046C19E /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				A3717DA70D6BE66BF48E5024 /* Pods-reception-desk-iphone.debug.xcconfig */,
+				883D7D4020A9982F756BFBB7 /* Pods-reception-desk-iphone.release.xcconfig */,
+				36A982674B5188011590DA95 /* Pods-reception-desk-iphoneTests.debug.xcconfig */,
+				D5C9B771B1F3549EC8AC5C6F /* Pods-reception-desk-iphoneTests.release.xcconfig */,
+				ED00968E2ADEC6B99961BDDC /* Pods-reception-desk-iphoneUITests.debug.xcconfig */,
+				BEDF25133DA01F8ABA05656F /* Pods-reception-desk-iphoneUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -135,9 +175,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2F1ED2E22105B1220087DE17 /* Build configuration list for PBXNativeTarget "reception-desk-iphone" */;
 			buildPhases = (
+				E6F2C033192C10A4B1682EFB /* [CP] Check Pods Manifest.lock */,
 				2F1ED2B62105B11D0087DE17 /* Sources */,
 				2F1ED2B72105B11D0087DE17 /* Frameworks */,
 				2F1ED2B82105B11D0087DE17 /* Resources */,
+				A7C13AA09867B2A599929A29 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -152,6 +194,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2F1ED2E52105B1220087DE17 /* Build configuration list for PBXNativeTarget "reception-desk-iphoneTests" */;
 			buildPhases = (
+				DD004F620264E37E3AD5A634 /* [CP] Check Pods Manifest.lock */,
 				2F1ED2CA2105B1220087DE17 /* Sources */,
 				2F1ED2CB2105B1220087DE17 /* Frameworks */,
 				2F1ED2CC2105B1220087DE17 /* Resources */,
@@ -170,6 +213,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2F1ED2E82105B1220087DE17 /* Build configuration list for PBXNativeTarget "reception-desk-iphoneUITests" */;
 			buildPhases = (
+				D3D6680417FF98A0C6F21D40 /* [CP] Check Pods Manifest.lock */,
 				2F1ED2D52105B1220087DE17 /* Sources */,
 				2F1ED2D62105B1220087DE17 /* Frameworks */,
 				2F1ED2D72105B1220087DE17 /* Resources */,
@@ -254,6 +298,83 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		A7C13AA09867B2A599929A29 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-reception-desk-iphone/Pods-reception-desk-iphone-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-reception-desk-iphone/Pods-reception-desk-iphone-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D3D6680417FF98A0C6F21D40 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-reception-desk-iphoneUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DD004F620264E37E3AD5A634 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-reception-desk-iphoneTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E6F2C033192C10A4B1682EFB /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-reception-desk-iphone-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		2F1ED2B62105B11D0087DE17 /* Sources */ = {
@@ -432,15 +553,13 @@
 		};
 		2F1ED2E32105B1220087DE17 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A3717DA70D6BE66BF48E5024 /* Pods-reception-desk-iphone.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = YMCFLQ9MSP;
 				INFOPLIST_FILE = "reception-desk-iphone/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jp.co.globis.reception-desk-iphone";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
@@ -450,15 +569,13 @@
 		};
 		2F1ED2E42105B1220087DE17 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 883D7D4020A9982F756BFBB7 /* Pods-reception-desk-iphone.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = YMCFLQ9MSP;
 				INFOPLIST_FILE = "reception-desk-iphone/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jp.co.globis.reception-desk-iphone";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
@@ -468,17 +585,14 @@
 		};
 		2F1ED2E62105B1220087DE17 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 36A982674B5188011590DA95 /* Pods-reception-desk-iphoneTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = YMCFLQ9MSP;
 				INFOPLIST_FILE = "reception-desk-iphoneTests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jp.co.globis.reception-desk-iphoneTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
@@ -489,17 +603,14 @@
 		};
 		2F1ED2E72105B1220087DE17 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D5C9B771B1F3549EC8AC5C6F /* Pods-reception-desk-iphoneTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = YMCFLQ9MSP;
 				INFOPLIST_FILE = "reception-desk-iphoneTests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jp.co.globis.reception-desk-iphoneTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
@@ -510,16 +621,13 @@
 		};
 		2F1ED2E92105B1220087DE17 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = ED00968E2ADEC6B99961BDDC /* Pods-reception-desk-iphoneUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = YMCFLQ9MSP;
 				INFOPLIST_FILE = "reception-desk-iphoneUITests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jp.co.globis.reception-desk-iphoneUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
@@ -530,16 +638,13 @@
 		};
 		2F1ED2EA2105B1220087DE17 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BEDF25133DA01F8ABA05656F /* Pods-reception-desk-iphoneUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = YMCFLQ9MSP;
 				INFOPLIST_FILE = "reception-desk-iphoneUITests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jp.co.globis.reception-desk-iphoneUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
